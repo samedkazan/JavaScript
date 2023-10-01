@@ -1,10 +1,4 @@
-## Follow and unfollow script Twitter
-
-<p align="center">
- <img width="800" src="https://github.com/mohamedebrahim96/Twitter-Followers/raw/master/1m7y2n.jpg">
-</p>
-
-
+## Geri dönüş yapmayanları takipten çıkarma
 
 ## Kılavuz
 
@@ -16,11 +10,9 @@
 **Adım 1** : Twitter hesabınıza giriş yapın.
 **Adım 2** : Takip ettikleriniz listesine gidin,  _www.twitter.com/following_ adresine gidin.
 **Adım 3** : Tarayıcı konsolunu açın. Konsolu açmak için
-
  _Google Chrome'da ctrl + shift + J tuşlarına basın._
  _Firefox'ta ctrl + shift + K tuşlarına basın._
  _Safari'de ctrl + alt + I tuşlarına basın._
- 
 **Adım 4** : Tüm takip ettiğiniz kullanıcıların listesi yüklenene kadar sayfanın altına otomatik olarak kaydırmak için, aşağıdaki kodu konsola yapıştırın.
 
 ```javascript
