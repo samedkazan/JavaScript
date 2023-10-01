@@ -15,6 +15,8 @@
  Safari'de `ctrl + alt + I` . <br/>
 **Adım 4** : Tüm takip ettiğiniz kullanıcıların listesi yüklenene kadar sayfanın altına otomatik olarak kaydırmak için, aşağıdaki kodu konsola yapıştırın.
 
+[Kod linki](https://github.com/samedkazan/JavaScript/blob/main/Twitter%20Unfollow-NonFollowers/index.js)
+
 ```javascript
 const delay = () => new Promise(proceed => setTimeout(proceed, 2000));
 
