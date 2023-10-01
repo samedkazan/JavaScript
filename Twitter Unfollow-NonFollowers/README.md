@@ -6,14 +6,7 @@
 
 ## Kullanım
 
-1. Twitter'da tüm takipçileri takibi bırakmak (Sizi takip etmeyenler)
-**Adım 1** : Twitter hesabınıza giriş yapın.
-**Adım 2** : Takip ettikleriniz listesine gidin,  _www.twitter.com/following_ adresine gidin
-**Adım 3** : Tarayıcı konsolunu açın. Konsolu açmak için
- Google Chrome'da ctrl + shift + J tuşlarına basın |
- Firefox'ta ctrl + shift + K tuşlarına basın |
- Safari'de ctrl + alt + I tuşlarına basın .
-**Adım 4** : Tüm takip ettiğiniz kullanıcıların listesi yüklenene kadar sayfanın altına otomatik olarak kaydırmak için, aşağıdaki kodu konsola yapıştırın.
+
 
 1. Unfollow all Twitter Followers (People who follow you + People who don’t follow you)
 **Step 1** : Log in to your twitter account.  
