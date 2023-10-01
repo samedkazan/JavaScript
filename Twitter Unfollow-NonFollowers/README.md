@@ -6,17 +6,14 @@
 
 ## Kullanım
 
-
-
-1. Unfollow all Twitter Followers (People who follow you + People who don’t follow you)
-**Step 1** : Log in to your twitter account.  
-**Step 2** : Go to your Following list i.e. go to _www.twitter.com/following_   
-**Step 3** : Open browser console. To open console     
- in Google Chrome press `ctrl + shift + J` |  
- in Firefox press `ctrl + shift + K` |   
- in Safari Press `ctrl + alt + I` .  
-**Step 4** : To auto-scroll to the bottom of the page, until all list of users you are Following is loaded, paste this code in the  console.
-
+1. Twitter'da tüm takipçileri takibi bırakmak (Sizi takip etmeyenler)
+**Adım 1** : Twitter hesabınıza giriş yapın.
+**Adım 2** : Takip ettikleriniz listesine gidin, _www.twitter.com/following_ 
+**Adım 3** : Tarayıcı konsolunu açın. Konsolu açmak için
+ Google Chrome'da `ctrl + shift + J` |
+ Firefox'ta `ctrl + shift + K` |
+ Safari'de `ctrl + alt + I` .
+**Adım 4** : Tüm takip ettiğiniz kullanıcıların listesi yüklenene kadar sayfanın altına otomatik olarak kaydırmak için, aşağıdaki kodu konsola yapıştırın.
 
 ```javascript
 const delay = () => new Promise(proceed => setTimeout(proceed, 2000));
