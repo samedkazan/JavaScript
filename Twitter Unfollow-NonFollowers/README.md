@@ -2,7 +2,7 @@
 
 ## Kılavuz
 
-## TR Twitter'da takipçi sayınızı artırmak oldukça basittir. Sadece başkalarını takip edin ve çoğu zaman onlar da sizi geri takip eder. Geri takip etmeyen kullanıcıları ise tek seferde hepsini takip etmeyi bırakmanızı kolaylaştıran bir kod blogu sunuyorum.
+## Twitter'da takipçi sayınızı düzenlemek bu kod blogu ile artık çok basit. Sadece yapmanız gereken tarayıcı konsoluna girerek bu kodu yapıştırmak. Ardından geri takip etmeyen kullanıcıları ise tek seferde hepsini takip etmeyi bırakmanızı kolaylaştıran bir kod blogu sunuyorum.
 
 ## Kullanım
 
